@@ -89,7 +89,7 @@ button > img {
   padding-right: 6px;
 }
 
-/* @media all and (min-device-width: 600px) {
+@media all and (min-device-width: 600px) {
   .card {
     flex-direction: row;
     width: 700px;
@@ -100,4 +100,4 @@ button > img {
     border-radius: 12px 0px 0px 12px;
     display: block;
   }
-} */
+}
